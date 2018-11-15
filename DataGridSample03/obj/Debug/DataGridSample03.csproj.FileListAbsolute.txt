@@ -1,0 +1,16 @@
+C:\git\WpfTest\DataGridSample03\bin\Debug\DataGridSample03.exe.config
+C:\git\WpfTest\DataGridSample03\bin\Debug\DataGridSample03.exe
+C:\git\WpfTest\DataGridSample03\bin\Debug\DataGridSample03.pdb
+C:\git\WpfTest\DataGridSample03\obj\Debug\DataGridSample03.csprojAssemblyReference.cache
+C:\git\WpfTest\DataGridSample03\obj\Debug\MainWindow.g.cs
+C:\git\WpfTest\DataGridSample03\obj\Debug\App.g.cs
+C:\git\WpfTest\DataGridSample03\obj\Debug\DataGridSample03_MarkupCompile.cache
+C:\git\WpfTest\DataGridSample03\obj\Debug\DataGridSample03_MarkupCompile.lref
+C:\git\WpfTest\DataGridSample03\obj\Debug\MainWindow.baml
+C:\git\WpfTest\DataGridSample03\obj\Debug\DataGridSample03.g.resources
+C:\git\WpfTest\DataGridSample03\obj\Debug\DataGridSample03.Properties.Resources.resources
+C:\git\WpfTest\DataGridSample03\obj\Debug\DataGridSample03.csproj.GenerateResource.cache
+C:\git\WpfTest\DataGridSample03\obj\Debug\DataGridSample03.csproj.CoreCompileInputs.cache
+C:\git\WpfTest\DataGridSample03\obj\Debug\DataGridSample03.exe
+C:\git\WpfTest\DataGridSample03\obj\Debug\DataGridSample03.pdb
+C:\git\WpfTest\DataGridSample03\obj\Debug\GeneratedInternalTypeHelper.g.cs
